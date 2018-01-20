@@ -6,6 +6,7 @@ dump.rdb
 appendonly.aof
 *.prof
 /.hpc
+/.smb-stack-work
 Main.hs
 .stack-work
 TAGS
